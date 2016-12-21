@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 기술 블로그 
 
 You can use the [editor on GitHub](https://github.com/euzin-doc/euzin-doc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
