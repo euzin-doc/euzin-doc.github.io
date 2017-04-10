@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: Blogging Like a Hacker
+---
 
 ## 기술 블로그 
 
